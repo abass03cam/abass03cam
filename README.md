@@ -5,9 +5,9 @@ My name is **Fode Abass Camara**, and I’m a passionate **web developer**.
 - 🔭 Currently building something exciting with my new startup  
 - 🌱 Always learning – exploring AI, automation & clean UI/UX  
 - 👯 Open to collaborations on meaningful web projects  
-- 🌐 [My Website]([https://mywebsite.com](https://abassley.netlify.app/))
+- 🌐 [Visit my website](https://yourdomain.com)
 
-> *“I just wanna live my life my way – no pain, no gain.”*
+> *“I live life on my terms – no pain, no gain.”*
 
   
 <!--
