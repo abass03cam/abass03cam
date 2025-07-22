@@ -14,7 +14,7 @@ My name is **Fode Abass Camara**, and I’m a passionate **web developer**.
 
 
 
-> *“I live life on my terms – no pain, no gain.”*
+> *“No pain, no gain, that's life ✨”*
 
 
 <!--
