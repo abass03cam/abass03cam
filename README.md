@@ -5,7 +5,7 @@ My name is **Fode Abass Camara**, and I’m a passionate **web developer**.
 - 🔭 Currently building something exciting with my new startup  
 - 🌱 Always learning – exploring AI, automation & clean UI/UX  
 - 👯 Open to collaborations on meaningful web projects  
-  - 🌐 [My website](https://abassley.netlify.app/)
+  - 🌐 [My website](https://www.abassley.com/)
   - 🔗 [My linkedin](https://www.linkedin.com/in/fod%C3%A9-abass-camara-046870140/)
 
 # 💻 Tech Stack:
